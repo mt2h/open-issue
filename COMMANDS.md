@@ -26,7 +26,7 @@ npm run package
 
 ## Template
 
-![Template](./img/template.png)
+![Template](./img/template2.png)
 
 ## Publish Action to Marketplace
 
