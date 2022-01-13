@@ -33,3 +33,5 @@ npm run package
 ![Publish](./img/publish.png)
 
 ![Publish Release](./img/publis_release.png)
+
+![Publish Version](./img/v1.0.0.png)
