@@ -30,4 +30,4 @@ npm run package
 
 ## Publish Action to Marketplace
 
-![Template](./img/publish.png)
+![Publish](./img/publish.png)
