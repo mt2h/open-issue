@@ -11,7 +11,6 @@ course Github Actions
 
 
 ```bash
-git clone https://github.com/actions/javascript-action
 cd javascript-action
 npm install
 npm install '@actions/core@^1.1.1'
@@ -24,3 +23,11 @@ npm test
 sudo apt install eslint
 npm run package
 ```
+
+## Template
+
+![Template](./img/template.png)
+
+## Publish Action to Marketplace
+
+![Template](./img/publish.png)
